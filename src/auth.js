@@ -1,4 +1,3 @@
-// src/auth.js
 import { getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword, onAuthStateChanged } from '@react-native-firebase/auth';
 
 const auth = getAuth();

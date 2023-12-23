@@ -1,4 +1,3 @@
-// src/MapViewComponent.js
 import React, { useEffect, useState } from 'react';
 import { View, Image } from 'react-native';
 import MapView, { Marker } from 'react-native-maps';

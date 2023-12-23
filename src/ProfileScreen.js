@@ -1,4 +1,3 @@
-// src/ProfileScreen.js
 import React, { useState, useEffect } from 'react';
 import { View, Text, TextInput, Button, Image } from 'react-native';
 import { getAuth, updateProfile } from '@react-native-firebase/auth';

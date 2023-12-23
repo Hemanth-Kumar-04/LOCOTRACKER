@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "235630861823",
+    "project_id": "maptracker-992e9",
+    "storage_bucket": "maptracker-992e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235630861823:android:be7dd709ad108917945bca",
+        "android_client_info": {
+          "package_name": "com.locatrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH1BtegQcY8yCg6rIEndWUwwrbEsONDqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
